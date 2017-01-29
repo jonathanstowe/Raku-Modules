@@ -1,0 +1,183 @@
+[submodule "AccessorFacade"]
+	path = AccessorFacade
+	url = git@github.com:jonathanstowe/AccessorFacade.git
+[submodule "Acme-Insult-Lala"]
+	path = Acme-Insult-Lala
+	url = git@github.com:jonathanstowe/Acme-Insult-Lala.git
+[submodule "App-ModuleSnap"]
+	path = App-ModuleSnap
+	url = git@github.com:jonathanstowe/App-ModuleSnap.git
+[submodule "Attribute-Lazy"]
+	path = Attribute-Lazy
+	url = git@github.com:jonathanstowe/Attribute-Lazy.git
+[submodule "Audio-Convert-Samplerate"]
+	path = Audio-Convert-Samplerate
+	url = git@github.com:jonathanstowe/Audio-Convert-Samplerate.git
+[submodule "Audio-Encode-LameMP3"]
+	path = Audio-Encode-LameMP3
+	url = git@github.com:jonathanstowe/Audio-Encode-LameMP3.git
+[submodule "Audio-Fingerprint-Chromaprint"]
+	path = Audio-Fingerprint-Chromaprint
+	url = git@github.com:jonathanstowe/Audio-Fingerprint-Chromaprint.git
+[submodule "Audio-Hydrogen"]
+	path = Audio-Hydrogen
+	url = git@github.com:jonathanstowe/Audio-Hydrogen.git
+[submodule "Audio-Icecast"]
+	path = Audio-Icecast
+	url = git@github.com:jonathanstowe/Audio-Icecast.git
+[submodule "Audio-Libshout"]
+	path = Audio-Libshout
+	url = git@github.com:jonathanstowe/Audio-Libshout.git
+[submodule "Audio-Liquidsoap"]
+	path = Audio-Liquidsoap
+	url = git@github.com:jonathanstowe/Audio-Liquidsoap.git
+[submodule "Audio-Playlist-JSPF"]
+	path = Audio-Playlist-JSPF
+	url = git@github.com:jonathanstowe/Audio-Playlist-JSPF.git
+[submodule "Audio-PortAudio"]
+	path = Audio-PortAudio
+	url = git@github.com:Perl6-Noise-Gang/Audio-PortAudio.git
+[submodule "Audio-PortMIDI"]
+	path = Audio-PortMIDI
+	url = git@github.com:Perl6-Noise-Gang/Audio-PortMIDI.git
+[submodule "Audio-Silan"]
+	path = Audio-Silan
+	url = git@github.com:jonathanstowe/Audio-Silan.git
+[submodule "Audio-Sndfile"]
+	path = Audio-Sndfile
+	url = git@github.com:jonathanstowe/Audio-Sndfile.git
+[submodule "CheckSocket"]
+	path = CheckSocket
+	url = git@github.com:jonathanstowe/CheckSocket.git
+[submodule "Chronic"]
+	path = Chronic
+	url = git@github.com:jonathanstowe/Chronic.git
+[submodule "Crypt-Libcrypt"]
+	path = Crypt-Libcrypt
+	url = git@github.com:jonathanstowe/Crypt-Libcrypt.git
+[submodule "Device-Velleman-K8055"]
+	path = Device-Velleman-K8055
+	url = git@github.com:jonathanstowe/Device-Velleman-K8055.git
+[submodule "Doublephone"]
+	path = Doublephone
+	url = git@github.com:jonathanstowe/Doublephone.git
+[submodule "EuclideanRhythm"]
+	path = EuclideanRhythm
+	url = git@github.com:jonathanstowe/EuclideanRhythm.git
+[submodule "EventEmitter"]
+	path = EventEmitter
+	url = git@github.com:jonathanstowe/EventEmitter.git
+[submodule "IO-Path-Mode"]
+	path = IO-Path-Mode
+	url = git@github.com:jonathanstowe/IO-Path-Mode.git
+[submodule "JSON-Class"]
+	path = JSON-Class
+	url = git@github.com:jonathanstowe/JSON-Class.git
+[submodule "JSON-Infer"]
+	path = JSON-Infer
+	url = git@github.com:jonathanstowe/JSON-Infer.git
+[submodule "JSON-Marshal"]
+	path = JSON-Marshal
+	url = git@github.com:jonathanstowe/JSON-Marshal.git
+[submodule "JSON-Name"]
+	path = JSON-Name
+	url = git@github.com:jonathanstowe/JSON-Name.git
+[submodule "LibraryCheck"]
+	path = LibraryCheck
+	url = git@github.com:jonathanstowe/LibraryCheck.git
+[submodule "Log-Syslog-Native"]
+	path = Log-Syslog-Native
+	url = git@github.com:jonathanstowe/Log-Syslog-Native.git
+[submodule "Lumberjack"]
+	path = Lumberjack
+	url = git@github.com:jonathanstowe/Lumberjack.git
+[submodule "Lumberjack-Application"]
+	path = Lumberjack-Application
+	url = git@github.com:jonathanstowe/Lumberjack-Application.git
+[submodule "Lumberjack-Dispatcher-Syslog"]
+	path = Lumberjack-Dispatcher-Syslog
+	url = git@github.com:jonathanstowe/Lumberjack-Dispatcher-Syslog.git
+[submodule "Manifesto"]
+	path = Manifesto
+	url = git@github.com:jonathanstowe/Manifesto.git
+[submodule "META6"]
+	path = META6
+	url = git@github.com:jonathanstowe/META6.git
+[submodule "Monitor-Monit"]
+	path = Monitor-Monit
+	url = git@github.com:jonathanstowe/Monitor-Monit.git
+[submodule "NativeHelpers-Array"]
+	path = NativeHelpers-Array
+	url = git@github.com:jonathanstowe/NativeHelpers-Array.git
+[submodule "Object-Permission"]
+	path = Object-Permission
+	url = git@github.com:jonathanstowe/Object-Permission.git
+[submodule "Object-Permission-Group"]
+	path = Object-Permission-Group
+	url = git@github.com:jonathanstowe/Object-Permission-Group.git
+[submodule "Oyatul"]
+	path = Oyatul
+	url = git@github.com:jonathanstowe/Oyatul.git
+[submodule "p6-Linux-Cpuinfo"]
+	path = p6-Linux-Cpuinfo
+	url = git@github.com:jonathanstowe/p6-Linux-Cpuinfo.git
+[submodule "p6-Linux-Fuser"]
+	path = p6-Linux-Fuser
+	url = git@github.com:jonathanstowe/p6-Linux-Fuser.git
+[submodule "p6-Sys-Lastlog"]
+	path = p6-Sys-Lastlog
+	url = git@github.com:jonathanstowe/p6-Sys-Lastlog.git
+[submodule "p6-Sys-Utmp"]
+	path = p6-Sys-Utmp
+	url = git@github.com:jonathanstowe/p6-Sys-Utmp.git
+[submodule "p6-Term-Cap"]
+	path = p6-Term-Cap
+	url = git@github.com:jonathanstowe/p6-Term-Cap.git
+[submodule "RPi-Device-PiGlow"]
+	path = RPi-Device-PiGlow
+	url = git@github.com:jonathanstowe/RPi-Device-PiGlow.git
+[submodule "RPi-Device-SMBus"]
+	path = RPi-Device-SMBus
+	url = git@github.com:jonathanstowe/RPi-Device-SMBus.git
+[submodule "Sofa"]
+	path = Sofa
+	url = git@github.com:jonathanstowe/Sofa.git
+[submodule "Staticish"]
+	path = Staticish
+	url = git@github.com:jonathanstowe/Staticish.git
+[submodule "Test-META"]
+	path = Test-META
+	url = git@github.com:jonathanstowe/Test-META.git
+[submodule "Test-Util-ServerPort"]
+	path = Test-Util-ServerPort
+	url = git@github.com:jonathanstowe/Test-Util-ServerPort.git
+[submodule "Tinky"]
+	path = Tinky
+	url = git@github.com:jonathanstowe/Tinky.git
+[submodule "Tinky-JSON"]
+	path = Tinky-JSON
+	url = git@github.com:jonathanstowe/Tinky-JSON.git
+[submodule "Unix-Groups"]
+	path = Unix-Groups
+	url = git@github.com:jonathanstowe/Unix-Groups.git
+[submodule "URI-FetchFile"]
+	path = URI-FetchFile
+	url = git@github.com:jonathanstowe/URI-FetchFile.git
+[submodule "URI-Template"]
+	path = URI-Template
+	url = git@github.com:jonathanstowe/URI-Template.git
+[submodule "Util-Bitfield"]
+	path = Util-Bitfield
+	url = git@github.com:jonathanstowe/Util-Bitfield.git
+[submodule "WebService-Soundcloud"]
+	path = WebService-Soundcloud
+	url = git@github.com:jonathanstowe/WebService-Soundcloud.git
+[submodule "XDG"]
+	path = XDG
+	url = git@github.com:jonathanstowe/XDG.git
+[submodule "XDG-BaseDirectory"]
+	path = XDG-BaseDirectory
+	url = git@github.com:jonathanstowe/XDG-BaseDirectory.git
+[submodule "XML-Class"]
+	path = XML-Class
+	url = git@github.com:jonathanstowe/XML-Class.git
