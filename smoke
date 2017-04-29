@@ -5,20 +5,20 @@ for DIR in *
 do 
     if [ -d $DIR ]
    	then
-       OLDPWD=`pwd` 
-        cd $DIR 
+		pushd $DIR
         echo Testing in $DIR
 		git checkout master
 		git pull
         panda --notests installdeps . >/dev/null 2>&1
+		panda-build
         PANDA_SUBMIT_TESTREPORTS=1 panda-test 
         if [ $? == 0 ]
       	then 
         	echo $DIR OK
       	else
         	echo $DIR FAIL
-      fi
-        cd $OLDPWD 
+      	fi
+		popd
    fi
 done
 echo Started  at $STARTED
