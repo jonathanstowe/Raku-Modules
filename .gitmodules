@@ -181,3 +181,9 @@
 [submodule "XML-Class"]
 	path = XML-Class
 	url = git@github.com:jonathanstowe/XML-Class.git
+[submodule "EventSource-Server"]
+	path = EventSource-Server
+	url = git@github.com:jonathanstowe/EventSource-Server.git
+[submodule "MessagePack-Class"]
+	path = MessagePack-Class
+	url = git@github.com:jonathanstowe/MessagePack-Class.git
