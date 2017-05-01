@@ -1,25 +1,29 @@
 #!/bin/sh
 
+RC=0
 STARTED=`date`
 for DIR in * 
 do 
     if [ -d $DIR ]
-   	then
-		pushd $DIR
-        echo Testing in $DIR
-		git checkout master
-		git pull
-        panda --notests installdeps . >/dev/null 2>&1
-		panda-build
-        PANDA_SUBMIT_TESTREPORTS=1 panda-test 
-        if [ $? == 0 ]
-      	then 
-        	echo $DIR OK
-      	else
-        	echo $DIR FAIL
-      	fi
-		popd
-   fi
+        then
+            pushd $DIR
+            echo Testing in $DIR
+            git checkout master
+            git pull
+            panda --notests installdeps . >/dev/null 2>&1
+            panda-build
+            PANDA_SUBMIT_TESTREPORTS=1 panda-test 
+            if [ $? == 0 ]
+            then 
+                echo $DIR OK
+      	    else
+                echo $DIR FAIL
+                RC=$(($RC + 1 ))
+      	    fi
+		    popd
+    fi
 done
 echo Started  at $STARTED
 echo Finished at `date`
+exit $RC
+# vim: sw=4 ts=4 expandtab
