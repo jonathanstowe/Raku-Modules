@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 
 RC=0
 STARTED=`date`
@@ -10,9 +10,9 @@ do
             echo Testing in $DIR
             git checkout master
             git pull
-            panda --notests installdeps . >/dev/null 2>&1
-            panda-build
-            PANDA_SUBMIT_TESTREPORTS=1 panda-test 
+            zef --deps-only --/test install . >/dev/null 2>&1
+            zef build . 
+            PANDA_SUBMIT_TESTREPORTS=1 zef test . 
             if [ $? == 0 ]
             then 
                 echo $DIR OK
