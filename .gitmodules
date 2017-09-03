@@ -187,3 +187,12 @@
 [submodule "MessagePack-Class"]
 	path = MessagePack-Class
 	url = https://github.com/jonathanstowe/MessagePack-Class.git
+[submodule "FastCGI-NativeCall-Async"]
+	path = FastCGI-NativeCall-Async
+	url = https://github.com/jonathanstowe/FastCGI-NativeCall-Async.git
+[submodule "p6-fcgi"]
+	path = p6-fcgi
+	url = https://github.com/jonathanstowe/p6-fcgi.git
+[submodule "p6-fcgi-psgi"]
+	path = p6-fcgi-psgi
+	url = https://github.com/jonathanstowe/p6-fcgi-psgi.git
