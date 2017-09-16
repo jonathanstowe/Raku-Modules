@@ -196,3 +196,6 @@
 [submodule "p6-fcgi-psgi"]
 	path = p6-fcgi-psgi
 	url = https://github.com/jonathanstowe/p6-fcgi-psgi.git
+[submodule "MQ-Posix"]
+	path = MQ-Posix
+	url = https://github.com/jonathanstowe/MQ-Posix.git
