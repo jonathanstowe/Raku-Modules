@@ -199,3 +199,6 @@
 [submodule "MQ-Posix"]
 	path = MQ-Posix
 	url = https://github.com/jonathanstowe/MQ-Posix.git
+[submodule "p6-GDBM"]
+	path = p6-GDBM
+	url = https://github.com/jonathanstowe/p6-GDBM.git
