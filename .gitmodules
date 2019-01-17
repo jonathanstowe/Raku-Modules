@@ -202,3 +202,6 @@
 [submodule "p6-GDBM"]
 	path = p6-GDBM
 	url = https://github.com/jonathanstowe/p6-GDBM.git
+[submodule "Igo"]
+	path = Igo
+	url = https://github.com/jonathanstowe/Igo.git
