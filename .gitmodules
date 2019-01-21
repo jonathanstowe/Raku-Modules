@@ -205,3 +205,6 @@
 [submodule "Igo"]
 	path = Igo
 	url = https://github.com/jonathanstowe/Igo.git
+[submodule "Pg-Notify"]
+	path = Pg-Notify
+	url = https://github.com/jonathanstowe/Pg-Notify.git
