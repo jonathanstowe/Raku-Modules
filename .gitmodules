@@ -208,3 +208,6 @@
 [submodule "Pg-Notify"]
 	path = Pg-Notify
 	url = https://github.com/jonathanstowe/Pg-Notify.git
+[submodule "p6-unix-privileges"]
+	path = p6-unix-privileges
+	url = https://github.com/jonathanstowe/p6-unix-privileges.git
