@@ -118,18 +118,12 @@
 [submodule "Oyatul"]
 	path = Oyatul
 	url = https://github.com/jonathanstowe/Oyatul.git
-[submodule "p6-Linux-Cpuinfo"]
-	path = p6-Linux-Cpuinfo
-	url = https://github.com/jonathanstowe/p6-Linux-Cpuinfo.git
-[submodule "p6-Linux-Fuser"]
-	path = p6-Linux-Fuser
-	url = https://github.com/jonathanstowe/p6-Linux-Fuser.git
-[submodule "p6-Sys-Lastlog"]
-	path = p6-Sys-Lastlog
-	url = https://github.com/jonathanstowe/p6-Sys-Lastlog.git
-[submodule "p6-Sys-Utmp"]
-	path = p6-Sys-Utmp
-	url = https://github.com/jonathanstowe/p6-Sys-Utmp.git
+[submodule "Raku-Sys-Lastlog"]
+	path = Raku-Sys-Lastlog
+	url = https://github.com/jonathanstowe/Raku-Sys-Lastlog.git
+[submodule "Raku-Sys-Utmp"]
+	path = Raku-Sys-Utmp
+	url = https://github.com/jonathanstowe/Raku-Sys-Utmp.git
 [submodule "p6-Term-Cap"]
 	path = p6-Term-Cap
 	url = https://github.com/jonathanstowe/p6-Term-Cap.git
@@ -199,9 +193,6 @@
 [submodule "MQ-Posix"]
 	path = MQ-Posix
 	url = https://github.com/jonathanstowe/MQ-Posix.git
-[submodule "p6-GDBM"]
-	path = p6-GDBM
-	url = https://github.com/jonathanstowe/p6-GDBM.git
 [submodule "Igo"]
 	path = Igo
 	url = https://github.com/jonathanstowe/Igo.git
@@ -217,3 +208,15 @@
 [submodule "RedX-HashedPassword"]
 	path = RedX-HashedPassword
 	url = https://github.com/jonathanstowe/RedX-HashedPassword.git
+[submodule "Raku-Sys-Utmp"]
+	path = Raku-Sys-Utmp
+	url = https://github.com/jonathanstowe/Raku-Sys-Utmp.git
+[submodule "Raku-Linux-Fuser"]
+	path = Raku-Linux-Fuser
+	url = https://github.com/jonathanstowe/Raku-Linux-Fuser.git
+[submodule "Raku-Linux-Cpuinfo"]
+	path = Raku-Linux-Cpuinfo
+	url = https://github.com/jonathanstowe/Raku-Linux-Cpuinfo.git
+[submodule "Raku-GDBM"]
+	path = Raku-GDBM
+	url = https://github.com/jonathanstowe/Raku-GDBM.git
