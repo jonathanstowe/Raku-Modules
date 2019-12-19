@@ -220,3 +220,6 @@
 [submodule "Raku-GDBM"]
 	path = Raku-GDBM
 	url = https://github.com/jonathanstowe/Raku-GDBM.git
+[submodule "Crypt-SodiumScrypt"]
+	path = Crypt-SodiumScrypt
+	url = https://github.com/jonathanstowe/Crypt-SodiumScrypt.git
