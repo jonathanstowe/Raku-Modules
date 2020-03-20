@@ -223,3 +223,6 @@
 [submodule "Crypt-SodiumScrypt"]
 	path = Crypt-SodiumScrypt
 	url = https://github.com/jonathanstowe/Crypt-SodiumScrypt.git
+[submodule "Ujumla"]
+	path = Ujumla
+	url = https://github.com/jonathanstowe/Ujumla.git
