@@ -226,3 +226,6 @@
 [submodule "Ujumla"]
 	path = Ujumla
 	url = https://github.com/jonathanstowe/Ujumla.git
+[submodule "EventSource-Client"]
+	path = EventSource-Client
+	url = https://github.com/jonathanstowe/EventSource-Client.git
