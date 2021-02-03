@@ -199,9 +199,9 @@
 [submodule "Pg-Notify"]
 	path = Pg-Notify
 	url = https://github.com/jonathanstowe/Pg-Notify.git
-[submodule "p6-unix-privileges"]
-	path = p6-unix-privileges
-	url = https://github.com/jonathanstowe/p6-unix-privileges.git
+[submodule "raku-unix-privileges"]
+	path = raku-unix-privileges
+	url = https://github.com/jonathanstowe/raku-unix-privileges.git
 [submodule "License-SPDX"]
 	path = License-SPDX
 	url = https://github.com/jonathanstowe/License-SPDX.git
