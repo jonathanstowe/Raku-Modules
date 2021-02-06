@@ -235,3 +235,6 @@
 [submodule "Lumberjack-Config-JSON"]
 	path = Lumberjack-Config-JSON
 	url = https://github.com/jonathanstowe/Lumberjack-Config-JSON.git
+[submodule "Lumberjack-Message-JSON"]
+	path = Lumberjack-Message-JSON
+	url = https://github.com/jonathanstowe/Lumberjack-Message-JSON.git
