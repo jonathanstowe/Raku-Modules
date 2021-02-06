@@ -232,3 +232,6 @@
 [submodule "Util-Uuencode"]
 	path = Util-Uuencode
 	url = https://github.com/jonathanstowe/Util-Uuencode.git
+[submodule "Lumberjack-Config-JSON"]
+	path = Lumberjack-Config-JSON
+	url = https://github.com/jonathanstowe/Lumberjack-Config-JSON.git
