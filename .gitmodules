@@ -240,3 +240,13 @@
 	path = Lumberjack-Message-JSON
 	url = https://github.com/jonathanstowe/Lumberjack-Message-JSON.git
 	branch = main
+[submodule "Crypt-LibScrypt"]
+	path = Crypt-LibScrypt
+	url = https://github.com/jonathanstowe/Crypt-LibScrypt.git
+	branch = main
+[submodule "Crypt-AnyPasswordHash"]
+	path = Crypt-AnyPasswordHash
+	url = https://github.com/jonathanstowe/Crypt-AnyPasswordHash.git
+[submodule "Crypt-SodiumPasswordHash"]
+	path = Crypt-SodiumPasswordHash
+	url = https://github.com/jonathanstowe/Crypt-SodiumPasswordHash.git
