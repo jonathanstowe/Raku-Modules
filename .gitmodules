@@ -250,3 +250,7 @@
 [submodule "Crypt-SodiumPasswordHash"]
 	path = Crypt-SodiumPasswordHash
 	url = https://github.com/jonathanstowe/Crypt-SodiumPasswordHash.git
+[submodule "Tinky-Declare"]
+	path = Tinky-Declare
+	url = https://github.com/jonathanstowe/Tinky-Declare.git
+	branch = main
