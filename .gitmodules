@@ -257,3 +257,6 @@
 [submodule "cro-http-bodyserializerjsonclass"]
 	path = cro-http-bodyserializerjsonclass
 	url = https://github.com/jonathanstowe/cro-http-bodyserializerjsonclass.git
+[submodule "Kivuli"]
+	path = Kivuli
+	url = https://github.com/jonathanstowe/Kivuli.git
