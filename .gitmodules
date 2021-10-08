@@ -260,3 +260,6 @@
 [submodule "Kivuli"]
 	path = Kivuli
 	url = https://github.com/jonathanstowe/Kivuli.git
+[submodule "JSON-OptIn"]
+	path = JSON-OptIn
+	url = https://github.com/jonathanstowe/JSON-OptIn.git

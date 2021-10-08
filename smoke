@@ -1,6 +1,7 @@
 #!/bin/bash
 
 RC=0
+FAILED=""
 STARTED=`date`
 for DIR in * 
 do 
@@ -8,7 +9,7 @@ do
         then
             pushd $DIR
             echo Testing in $DIR
-            git checkout master
+            git checkout `git remote show origin | awk '/HEAD branch/ {print $NF}'`
             git pull
             zef --deps-only --/test install . >/dev/null 2>&1
             zef build . 
@@ -19,11 +20,13 @@ do
       	    else
                 echo $DIR FAIL
                 RC=$(($RC + 1 ))
+                FAIL="$FAIL, $DIR"
       	    fi
 		    popd
     fi
 done
 echo Started  at $STARTED
 echo Finished at `date`
+echo Failed: $FAIL
 exit $RC
 # vim: sw=4 ts=4 expandtab
