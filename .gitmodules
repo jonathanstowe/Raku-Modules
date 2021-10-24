@@ -263,3 +263,9 @@
 [submodule "JSON-OptIn"]
 	path = JSON-OptIn
 	url = https://github.com/jonathanstowe/JSON-OptIn.git
+[submodule "AWS-SNS-Notification"]
+	path = AWS-SNS-Notification
+	url = https://github.com/jonathanstowe/AWS-SNS-Notification.git
+[submodule "Cro-HTTP-BodyParser-JSONClass"]
+	path = Cro-HTTP-BodyParser-JSONClass
+	url = https://github.com/jonathanstowe/Cro-HTTP-BodyParser-JSONClass.git
