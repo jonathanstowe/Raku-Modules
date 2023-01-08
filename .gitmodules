@@ -275,3 +275,6 @@
 [submodule "RPi-Device-DS18B20"]
 	path = RPi-Device-DS18B20
 	url = https://github.com/jonathanstowe/RPi-Device-DS18B20.git
+[submodule "Ikoko"]
+	path = Ikoko
+	url = https://github.com/jonathanstowe/Ikoko.git
