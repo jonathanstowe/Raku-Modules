@@ -269,3 +269,9 @@
 [submodule "Cro-HTTP-BodyParser-JSONClass"]
 	path = Cro-HTTP-BodyParser-JSONClass
 	url = https://github.com/jonathanstowe/Cro-HTTP-BodyParser-JSONClass.git
+[submodule "RPi-Device-DHT11"]
+	path = RPi-Device-DHT11
+	url = https://github.com/jonathanstowe/RPi-Device-DHT11.git
+[submodule "RPi-Device-DS18B20"]
+	path = RPi-Device-DS18B20
+	url = https://github.com/jonathanstowe/RPi-Device-DS18B20.git
